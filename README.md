@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Computer vision
 - 💞️ I’m looking to collaborate on Like-minded people
-- - 📫 How to reach me 3027943368@qq.com
+- 📫 How to reach me 3027943368@qq.com
 - 😄 We were so lucky to have met each other
 
 <!---
