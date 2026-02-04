@@ -22,4 +22,8 @@
 
 这里可以写一段简短的自我介绍，比如你正在学习什么，或者你在寻找什么样的合作机会。
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TtLuckyyy/TtLuckyyy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TtLuckyyy/TtLuckyyy/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TtLuckyyy/TtLuckyyy/output/github-contribution-grid-snake.svg">
+</picture>
