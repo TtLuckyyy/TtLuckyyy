@@ -12,8 +12,8 @@
 <p align="left">
     <img src="https://img.shields.io/badge/Python-d91c25?style=flat-square&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/C%2B%2B-000000?style=flat-square&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/C-306998?style=flat-square&logo=c&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/C-d91c25?style=flat-square&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/Verilog-d91c25?style=flat-square&logo=verilog&logoColor=white" />
     <img src="https://img.shields.io/badge/Swift-000000?style=flat-square&logo=swift&logoColor=white" />
     <img src="https://img.shields.io/badge/Unity-d91c25?style=flat-square&logo=unity&logoColor=white" />
