@@ -31,8 +31,8 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TtLuckyyy&layout=compact&theme=radical&langs_count=8)
-![Language Stats](https://raw.githubusercontent.com/TtLuckyyy/TtLuckyyy/master/assets/languages.svg)
-![Language Stats](https://github-readme-stats.vercel.app/api/pin/?username=TtLuckyyy&repo=repository_name&theme=radical)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TtLuckyyy&theme=transparent&hide_border=true&layout=compact&langs_count=6)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TtLuckyyy&theme=transparent&hide_border=true&layout=donut&langs_count=6)
 
 
 <picture>
