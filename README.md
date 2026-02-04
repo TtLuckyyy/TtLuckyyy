@@ -22,4 +22,4 @@
 
 这里可以写一段简短的自我介绍，比如你正在学习什么，或者你在寻找什么样的合作机会。
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZxFan)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
