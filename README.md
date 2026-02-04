@@ -23,7 +23,7 @@
 这里可以写一段简短的自我介绍，比如你正在学习什么，或者你在寻找什么样的合作机会。
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=TtLuckyyy&theme=transparent&hide_border=true_
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=TtLuckyyy&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 
 
 <picture>
