@@ -10,10 +10,16 @@
 邮箱: [3027943368@qq.com](mailto:3027943368@qq.com) &nbsp;&nbsp;|&nbsp;&nbsp; 关注人工智能与大语言模型，热爱运动和旅行。
 
 <p align="left">
-    <img src="https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-d91c25?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%2B%2B-000000?style=flat-square&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/C-306998?style=flat-square&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Verilog-d91c25?style=flat-square&logo=verilog&logoColor=white" />
+    <img src="https://img.shields.io/badge/Swift-000000?style=flat-square&logo=swift&logoColor=white" />
+    <img src="https://img.shields.io/badge/Unity-d91c25?style=flat-square&logo=unity&logoColor=white" />
+    <img src="https://img.shields.io/badge/Android-000000?style=flat-square&logo=android&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-d91c25?style=flat-square&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
 ## 👨‍💻 关于我
