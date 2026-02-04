@@ -22,7 +22,17 @@
 
 这里可以写一段简短的自我介绍，比如你正在学习什么，或者你在寻找什么样的合作机会。
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TtLuckyyy&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<p align="left">
+    <img src="https://img.shields.io/badge/JavaScript-ffd700?style=flat-square&logo=javascript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/Swift-f05138?style=flat-square&logo=swift&logoColor=white" />
+</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TtLuckyyy&layout=compact&theme=radical&langs_count=8)
+![Language Stats](https://raw.githubusercontent.com/TtLuckyyy/TtLuckyyy/master/assets/languages.svg)
+![Language Stats](https://github-readme-stats.vercel.app/api/pin/?username=TtLuckyyy&repo=repository_name&theme=radical)
 
 
 <picture>
