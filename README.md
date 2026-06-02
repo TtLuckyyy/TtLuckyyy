@@ -1,12 +1,14 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=d91c25&height=260&section=header&text=ZxFan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%E5%BE%97%E4%B9%8B%E6%88%91%E5%B9%B8%20%E5%A4%B1%E4%B9%8B%E6%88%91%E5%91%BD&descAlignY=55&descAlign=60" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=d91c25&height=260&section=header&text=ZxFan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Fortune%20in%20gaining,%20fate%20in%20losing&descAlignY=55&descAlign=60" width="100%" />
 </div>
 
+## 👋 Hi, I'm Zixiang
 
-## 👋 你好，我是 Zixiang
-**个人定位**
+Undergraduate student in **Computer Science and Technology at Tongji University** and Master's student at the **Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)**.
 
-邮箱: [3027943368@qq.com](mailto:3027943368@qq.com) &nbsp;&nbsp;|&nbsp;&nbsp; 关注人工智能与大语言模型，热爱运动和旅行。
+📧 Email: [3027943368@qq.com](mailto:3027943368@qq.com)
+
+I am passionate about **Artificial Intelligence**, **Large Language Models**, and their applications in real-world systems. Outside of research, I enjoy sports, traveling, and photography.
 
 <p align="left">
     <img src="https://img.shields.io/badge/Python-d91c25?style=flat-square&logo=python&logoColor=white" />
@@ -21,9 +23,19 @@
     <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-## 👨‍💻 关于我
+## 👨‍💻 Research Interests
 
-科研方向主要集中在 **LLM4Code**，大语言模型在代码生成领域的应用。也很喜欢篮球、手球、赛艇、健身和游泳等各种运动。遇见各位是天大的幸运，希望在这里结识更多志同道合的朋友。
+My research focuses on **LLM4Code**, exploring how large language models can improve code generation, reasoning, and software engineering tasks.
+
+I am particularly interested in:
+
+* Large Language Models (LLMs)
+* Code Generation and Code Reasoning
+* AI Agents
+* Reinforcement Learning for LLMs
+* Retrieval-Augmented Generation (RAG)
+
+Beyond research, I enjoy basketball, handball, rowing, fitness training, swimming, traveling, and photography. I'm always happy to connect with people who share similar interests.
 
 ---
 
@@ -35,8 +47,8 @@
 
 ---
 
+## 📫 Contact Me
 
-## 📫 联系我
-- Email: [3027943368@qq.com](mailto:3027943368@qq.com)
-- GitHub: [TtLuckyyy](https://github.com/TtLuckyyy)
-- LinkedIn: [Zixiang's LinkedIn](#)
+* Email: [3027943368@qq.com](mailto:3027943368@qq.com)
+* GitHub: [TtLuckyyy](https://github.com/TtLuckyyy)
+* LinkedIn: [Zixiang's LinkedIn](#)
