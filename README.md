@@ -25,15 +25,16 @@ I am passionate about **Artificial Intelligence**, **Large Language Models**, an
 
 ## 👨‍💻 Research Interests
 
-My research focuses on **LLM4Code**, exploring how large language models can improve code generation, reasoning, and software engineering tasks.
+My research focuses on LLM4Code, with a particular emphasis on CUDA kernel / operator generation, exploring how large language models can improve high-performance GPU code synthesis, optimization, and verification.
 
 I am particularly interested in:
 
-* Large Language Models (LLMs)
-* Code Generation and Code Reasoning
-* AI Agents
-* Reinforcement Learning for LLMs
-* Retrieval-Augmented Generation (RAG)
+* Large Language Models (LLMs) 
+* CUDA Kernel / Operator Generation and Optimization 
+* AI Agents for Code Synthesis and Execution 
+* Reinforcement Learning for LLMs (RL4Code / RLHF variants) 
+* Retrieval-Augmented Generation (RAG) for Code and Engineering Tasks
+
 
 Beyond research, I enjoy basketball, handball, rowing, fitness training, swimming, traveling, and photography. I'm always happy to connect with people who share similar interests.
 
