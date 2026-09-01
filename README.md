@@ -32,8 +32,7 @@ I am particularly interested in:
 * Large Language Models (LLMs) 
 * CUDA Kernel / Operator Generation and Optimization 
 * AI Agents for Code Synthesis and Execution 
-* Reinforcement Learning for LLMs (RL4Code / RLHF variants) 
-* Retrieval-Augmented Generation (RAG) for Code and Engineering Tasks
+
 
 
 Beyond research, I enjoy basketball, handball, rowing, fitness training, swimming, traveling, and photography. I'm always happy to connect with people who share similar interests.
